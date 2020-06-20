@@ -1,7 +1,5 @@
 # PDF_Force
-This is a console app designed to testing PDF password for security (brute force).</br>
-Description: This is a console app designed to testing PDF
-password for security.</br>
+This is a console app designed to testing PDF password for security (brute force).</br> Консольное приложение для тестирования паролей для PDF файлов, перебор паролей (брутфорс).</br>
 List of keywords:</br>
 help -- print user's manual;</br>
 List of flags:</br>
