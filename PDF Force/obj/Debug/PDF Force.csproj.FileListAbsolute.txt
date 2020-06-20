@@ -1,0 +1,6 @@
+D:\GitHub\PDF Force\PDF Force\bin\Debug\PDF Force.exe.config
+D:\GitHub\PDF Force\PDF Force\bin\Debug\PDF Force.exe
+D:\GitHub\PDF Force\PDF Force\bin\Debug\PDF Force.pdb
+D:\GitHub\PDF Force\PDF Force\obj\Debug\PDF Force.csprojAssemblyReference.cache
+D:\GitHub\PDF Force\PDF Force\obj\Debug\PDF Force.exe
+D:\GitHub\PDF Force\PDF Force\obj\Debug\PDF Force.pdb

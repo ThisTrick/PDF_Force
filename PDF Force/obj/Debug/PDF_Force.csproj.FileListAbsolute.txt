@@ -1,0 +1,8 @@
+D:\GitHub\PDF Force\PDF Force\bin\Debug\PDF_Force.exe.config
+D:\GitHub\PDF Force\PDF Force\bin\Debug\PDF_Force.exe
+D:\GitHub\PDF Force\PDF Force\bin\Debug\PDF_Force.pdb
+D:\GitHub\PDF Force\PDF Force\obj\Debug\PDF_Force.exe
+D:\GitHub\PDF Force\PDF Force\obj\Debug\PDF_Force.pdb
+D:\GitHub\PDF Force\PDF Force\bin\Debug\itextsharp.dll
+D:\GitHub\PDF Force\PDF Force\bin\Debug\itextsharp.xml
+D:\GitHub\PDF Force\PDF Force\obj\Debug\PDF_Force.csproj.CopyComplete
